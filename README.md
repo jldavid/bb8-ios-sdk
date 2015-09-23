@@ -1,6 +1,6 @@
 ##Unofficial BB-8 iOS SDK
 
-![BB-8](https://pbs.twimg.com/media/COdlnAbWUAE0tbG.jpg:large "BB-8")
+![BB-8](https://farm6.staticflickr.com/5630/21031949194_efbd1faa5a_o_d.jpg "BB-8")
 
 **TODO**
 - BB-8 Sounds
