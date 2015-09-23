@@ -1,2 +1,1 @@
-# bb8-ios-sdk
-Unofficial iOS SDK for the BB-8 by Sphero. Loosely based on the official iOS SDK: https://github.com/orbotix/Sphero-iOS-SDK
+![BB-8](https://pbs.twimg.com/media/COdlnAbWUAE0tbG.jpg:large "BB-8")
