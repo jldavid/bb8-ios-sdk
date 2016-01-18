@@ -7,3 +7,4 @@
 - Document hidden macros
 - Base library to control BB-8
 - Sample project
+- Other assets also
