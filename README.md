@@ -7,6 +7,4 @@
 - Document hidden macros
 - Base library to control BB-8
 - Sample project
-- Hey!
-- Magic
-- Pizzazz
+- Banana
