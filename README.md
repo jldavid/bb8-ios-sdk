@@ -8,3 +8,4 @@
 - Base library to control BB-8
 - Sample project
 - Hey!
+- Magic
